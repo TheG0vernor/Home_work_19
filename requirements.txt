@@ -14,6 +14,7 @@ marshmallow==3.14.0
 pyrsistent==0.18.0
 pytz==2021.3
 six==1.16.0
+pyjwt
 SQLAlchemy==1.4.26
 typing-extensions==3.10.0.2
 Werkzeug==2.0.2
